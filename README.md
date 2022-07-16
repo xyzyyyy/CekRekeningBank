@@ -17,7 +17,7 @@
 - Download [Git](https://git-scm.com/downloads)
 
 ```bash
-$ git clone https://github.com/TobyG74/CekRekeningBank.git
+$ git clone https://github.com/xyzyyyy/CekRekeningBank
 $ cd CekRekeningBank
 $ npm install
 $ npm start
@@ -32,7 +32,7 @@ $ apt-get update
 $ apt-get upgrade -y
 $ apt install git -y
 $ apt install nodejs -y
-$ git clone https://github.com/TobyG74/CekRekeningBank.git
+$ git clone https://github.com/xyzyyyy/CekRekeningBank
 $ cd CekRekeningBank
 $ npm install
 $ npm start
